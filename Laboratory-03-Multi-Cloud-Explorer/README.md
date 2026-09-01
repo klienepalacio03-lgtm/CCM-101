@@ -9,7 +9,6 @@ This laboratory activity explores and compares Amazon Web Services (AWS), Micros
 - Compare AWS, Azure, and GCP.
 - Analyze business requirements.
 - Recommend appropriate cloud solutions.
-## Checkpoint 7 – Linux Server Investigation
 
 ### Linux Server Information
 
